@@ -1,0 +1,9 @@
+# large source media / intermediates
+reel2/source.mp4
+reel2/work_audio.wav
+reel2/work_video.mp4
+reel2/template/public/edited.mp4
+node_modules/
+reel2/template/out/
+__pycache__/
+reel2/work_video_hq.mp4
